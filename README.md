@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SLS Praneet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **Real-time Object Detection in edge devices connected through OAI 5G.**
 
-- 👯 I’m looking to collaborate on **Impactful AI related works**
+- 👯 I’m looking to collaborate on **Impactful AI and Data Science related works**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN related queries and AI/ML stuff.**
 
 - ⚡ Fun fact **Everyting is edible but some things are edible only once**
 
