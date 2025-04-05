@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SLS Praneet</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from Hyderabad, India</h3>
 
 - 🔭 I’m currently working on **Real-time Object Detection in edge devices connected through OAI 5G.**
 
